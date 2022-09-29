@@ -99,3 +99,15 @@ if(revenue < 2000):
 else:
   # Output Everything is ok!
   print("Everything is ok!")
+
+
+  #You are given number num. Using if/else, print the message "The number num is odd" if num is odd, and "The number num is even" if num is even. Do it by replacing the ___ parts within print() functions with respective text ('odd' or 'even').
+
+# Define if/else construction
+num = 8941 % 931
+if(num % 2):
+  # Print message below
+  print("The number num is", "odd")
+else:
+  # Print another message below
+  print("The number num is", "even")
