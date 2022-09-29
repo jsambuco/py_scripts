@@ -109,5 +109,5 @@ if(num % 2):
   # Print message below
   print("The number num is", "odd")
 else:
-  # Print another message below
+  # Print another messaege below
   print("The number num is", "even")
